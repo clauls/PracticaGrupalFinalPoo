@@ -1,0 +1,5 @@
+product_type;product_name;product_units;product_unit_prize;product_description;materials;weight;nutritional_information;has_battery;charged_by_default
+1;gold ingot;3;1450;This a 18k gold ingot of 250 grames.;gold;250 g;;;
+1;silver bullion 20oz ingot;7;550;This a silver bullion ingot of 20 ounces.;silver;567 g;;;
+2;Coffee with milk;20;1.55;This a coffee milk with skimmed milk;;;Our 8 oz cup of coffee with 1 oz of skimmed milk has 12 calories.;;
+3;Airpod Max Pink;2;615;AirPods Max combine high-fidelity audio with industry-leading Active Noise Cancellation to deliver an unparalleled listening experience. Each part of their custom-built driver works to produce sound with ultra-low distortion across the audible range.;;384.8 g;;1;0
